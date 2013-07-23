@@ -1,6 +1,6 @@
 # Namespace Wrapper #
 
-This simple node application will wrap a JavaScript library written using AMD and compressed using r.js into a configurable namespace
+This simple node application will wrap a JavaScript library written using [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) and compressed using [r.js](http://requirejs.org) into a configurable namespace
 
 ## The Problem ##
 
